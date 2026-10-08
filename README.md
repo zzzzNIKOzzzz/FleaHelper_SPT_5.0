@@ -50,7 +50,9 @@ QuickSellFlea мод от Lacyway (версия для SPT 4.1.6 / Mono)
 
 ## Лицензия:
 MIT — делай что хочешь, просто не забудь упомянуть автора.
+
+<img width="981" height="356" alt="2026-10-09_02-01-06" src="https://github.com/user-attachments/assets/cbd47723-4210-4057-a929-759fc9078063" />
 <img width="450" height="39" alt="2026-10-09_02-01-24" src="https://github.com/user-attachments/assets/157bc4e7-ceb4-4186-bacf-8bb93e347201" />
 <img width="428" height="38" alt="2026-10-09_02-02-07" src="https://github.com/user-attachments/assets/5f0d7da2-5586-49ea-9428-9f1b17163c18" />
 <img width="803" height="225" alt="2026-10-09_02-02-25" src="https://github.com/user-attachments/assets/131aeab4-650f-4c61-a4c5-9eba0ecaa6e5" />
-<img width="981" height="356" alt="2026-10-09_02-01-06" src="https://github.com/user-attachments/assets/cbd47723-4210-4057-a929-759fc9078063" />
+
